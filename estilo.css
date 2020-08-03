@@ -1,0 +1,85 @@
+html, body {
+    margin: 0;
+}
+.imagem-fundo{
+    background: url(img/fundo-ods3.jpg);
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+}
+.titulo{
+    color: black;
+    padding-top: 10%;
+    font-size: 60px;
+    font-style: oblique;
+}
+.subtitulo{
+    padding-left: 20px;
+    padding-right: 20px;
+    border-top: white solid;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.acao{
+    color: white;
+    border: 1px solid white;
+    padding: 10px;
+}
+.apresentacao{
+    text-align: center;
+    margin: 0;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+h3{
+    font-size: 30px;
+    border-bottom: black solid 2px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.video{
+    border: solid blue 3px;
+}
+.paragrafo{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.icone{
+    width: 51px;
+}
+.coluna{
+    float: left;
+    position: relative;
+    padding: 0 5%;
+}
+.dois{
+    width: 40%;
+    background-color: whitesmoke;
+}
+.tres{
+    width: 15%;
+    text-align: center;
+}
+.objetivos{
+    width: 100%;
+    float: left;
+}
+section{
+    float: left;
+    padding: 10px;
+    margin: 0;
+}
+.justificado{
+    text-align: justify;
+}
+.centralizado{
+    text-align: center;
+}
+#opa{
+    color: green;
+}
+#img{
+    width: 250px;
+    margin-left: 20%;
+    border: grey solid 1px;
+}
